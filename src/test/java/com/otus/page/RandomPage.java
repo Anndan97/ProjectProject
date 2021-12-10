@@ -59,22 +59,22 @@ public class RandomPage extends BasePage{
         switch (randomPageNow) {
             case (1):
             case (2):
-            case (3):
-            case (8):
+            case (7):
+            case (10):
                 String headle = driver.findElement(By.xpath(haedleCourse)).getText();
                 logger.info(headle + " headle");
                 finalHeadle = value(headle);
                 break;
+            case (3):
             case (4):
-            case (5):
-            case (7):
+            case (6):
+            case (8):
             case (9):
-            case (10):
                 String headle_2 = driver.findElement(By.xpath(headleCourseDiv)).getText();
                 logger.info(headle_2 + " headle");
                 finalHeadle = value(headle_2);
                 break;
-            case (6):
+            case (5):
                 String headle_3 = driver.findElement(By.xpath(headleCourseImg)).getText();
                 logger.info(headle_3 + " headle");
                 finalHeadle = value(headle_3);
@@ -99,7 +99,9 @@ public class RandomPage extends BasePage{
             case (1):
             case (2):
             case (3):
+            case (7):
             case (8):
+            case (10):
                 String description = driver.findElement(By.xpath(descriptionLocatorVar2)).getText();
                 logger.info(description + " description");
                 finalDecrtiption = value(description);
@@ -110,20 +112,18 @@ public class RandomPage extends BasePage{
                 finalDecrtiption = value(description2);
                 break;
             case (4):
-            case (5):
-            case (10):
+            case (6):
                 String description3 = driver.findElement
                         (By.xpath(descriptionLocatorVar2)).getText();
                 String description3_1 = driver.findElement(By.xpath(descriptionLocatorVar1)).getText();
                 logger.info(description3 + description3_1 + " description");
                 finalDecrtiption = value(description3)||value(description3_1);
                 break;
-            case (6):
+            case (5):
                 String description_6 = driver.findElement(By.xpath(descriptionLocatorVar3)).getText();
                 logger.info(description_6 + " description");
                 finalDecrtiption = value(description_6);
                 break;
-            case (7):
             case (9):
                 String description_79 = driver.findElement(By.xpath(descriptionLocatorVar1)).getText();
                 logger.info(description_79 + " description");
@@ -143,7 +143,7 @@ public class RandomPage extends BasePage{
         boolean finalDuration = false;
         switch (randomPageNow) {
             case (1):
-            case (5):
+            case (6):
             case (7):
             case (8):
             case (9):
@@ -163,7 +163,7 @@ public class RandomPage extends BasePage{
                 logger.info(description3And4 + " duration");
                 finalDuration = value(description3And4);
                 break;
-            case (6):
+            case (5):
                 String description_6 = driver.findElement(By.cssSelector(durationLocalorCourse6)).getText();
                 logger.info(description_6 + " duration");
                 finalDuration = value(description_6);

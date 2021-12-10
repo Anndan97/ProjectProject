@@ -1827,3 +1827,348 @@
 2021-12-01 16:37:11,934 INFO c.o.Test1 [main] Изучение всех видов тестирования: API, UI, бекенд, безопасности, чтобы быть максимально универсальным специалистом.Автоматизация тестирования на Python description
 2021-12-01 16:37:11,980 INFO c.o.Test1 [main] 5 месяцев duration
 2021-12-01 16:37:12,718 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:03:40,009 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:03:43,768 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:03:43,773 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:03:45,199 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:03:48,195 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:03:50,379 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:06:53,757 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:06:57,808 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:06:57,813 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:06:59,239 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:07:01,739 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:07:03,982 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:09:56,663 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:10:01,295 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:10:01,300 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:10:02,697 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:10:06,359 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:10:08,484 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:31:06,180 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:31:11,079 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:31:11,084 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:31:12,493 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:31:15,607 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:31:15,961 INFO c.o.Test1 [main] Java QA Engineer. Professional headle
+2021-12-10 16:31:15,991 INFO c.o.Test1 [main] Полный ландшафт современных технологий тестирования на Java. description
+2021-12-10 16:31:16,015 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:31:16,759 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:31:37,617 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:31:41,540 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:31:41,545 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:31:42,940 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:31:46,512 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:31:48,707 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:33:43,807 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:33:47,791 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:33:47,796 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:33:49,165 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:33:51,969 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:33:55,029 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:35:45,160 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:35:49,117 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:35:49,123 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:35:50,523 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:35:53,283 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:35:55,425 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:38:25,041 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:38:29,728 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:38:29,734 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:38:31,149 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:38:33,959 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:38:34,325 INFO c.o.Test1 [main] QA Engineer. Basic headle
+2021-12-10 16:38:34,352 INFO c.o.Test1 [main] Получите навыки тестирования веб-приложений и представления обратной связи о качестве продукта description
+2021-12-10 16:38:34,377 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:38:35,133 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:38:56,824 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:39:00,506 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:39:00,512 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:39:01,939 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:39:05,237 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:39:05,605 INFO c.o.Test1 [main] Нагрузочное тестирование headle
+2021-12-10 16:39:05,639 INFO c.o.Test1 [main] Все инструменты и особенности процесса проведения достоверного нагрузочного тестирования description
+2021-12-10 16:39:05,664 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:39:06,410 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:39:25,798 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:39:31,793 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:39:31,799 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:39:33,267 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:39:35,981 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:39:38,121 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:40:07,655 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:40:12,253 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:40:12,257 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:40:13,692 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:40:16,472 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:40:16,851 INFO c.o.Test1 [main] Java QA Engineer. Professional headle
+2021-12-10 16:40:16,877 INFO c.o.Test1 [main] Полный ландшафт современных технологий тестирования на Java. description
+2021-12-10 16:40:16,904 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:40:17,633 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:40:38,008 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:40:41,736 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:40:41,740 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:40:43,160 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:40:47,077 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:40:47,456 INFO c.o.Test1 [main] Python QA Engineer headle
+2021-12-10 16:40:47,507 INFO c.o.Test1 [main] Изучение всех видов тестирования: API, UI, бекенд, безопасности, чтобы быть максимально универсальным специалистом.Автоматизация тестирования на Python description
+2021-12-10 16:40:47,531 INFO c.o.Test1 [main] 5 месяцев duration
+2021-12-10 16:40:48,270 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:41:15,253 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:41:19,350 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:41:19,354 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:41:20,725 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:41:23,392 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:41:24,718 INFO c.o.Test1 [main]  headle
+2021-12-10 16:41:26,479 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:42:23,397 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:42:27,957 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:42:27,961 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:42:29,417 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:42:31,824 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:42:33,156 INFO c.o.Test1 [main]  headle
+2021-12-10 16:42:33,196 INFO c.o.Test1 [main] Научитесь проводить тестирования и автоматизировать процесс на Java с нуля до Middle description
+2021-12-10 16:42:33,229 INFO c.o.Test1 [main] Длительность обучения: 10 месяцев duration
+2021-12-10 16:42:33,978 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:42:54,272 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:42:57,816 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:42:57,821 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:42:59,244 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:43:02,557 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:43:02,959 INFO c.o.Test1 [main] Java QA Engineer. Basic headle
+2021-12-10 16:43:03,035 INFO c.o.Test1 [main] Автоматизация тестирования на Java с нуля description
+2021-12-10 16:43:03,075 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:43:03,811 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:43:23,021 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:43:26,866 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:43:26,871 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:43:28,297 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:43:32,052 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:43:34,197 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:44:43,880 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:44:49,406 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:44:49,410 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:44:50,828 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:44:54,358 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:44:54,738 INFO c.o.Test1 [main] QA Lead headle
+2021-12-10 16:44:56,553 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:46:11,644 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:46:15,837 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:46:15,843 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:46:17,683 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:46:20,887 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:46:21,214 INFO c.o.Test1 [main] QA Lead headle
+2021-12-10 16:46:21,259 INFO c.o.Test1 [main] Best Practice по Soft и Hard Skills для эффективного управления командами тестирования description
+2021-12-10 16:46:21,283 INFO c.o.Test1 [main] 6 месяцев duration
+2021-12-10 16:46:22,044 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:46:45,383 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:46:49,095 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:46:49,103 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:46:50,537 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:46:54,645 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:46:56,786 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:48:19,758 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:48:24,439 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:48:24,442 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:48:25,891 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:48:28,725 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:48:29,062 INFO c.o.Test1 [main] JavaScript QA Engineer headle
+2021-12-10 16:48:29,104 INFO c.o.Test1 [main]  description
+2021-12-10 16:48:29,130 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:48:29,880 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:48:48,311 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:48:52,779 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:48:52,785 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:48:54,304 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:48:56,939 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:48:57,287 INFO c.o.Test1 [main] Kotlin QA Engineer headle
+2021-12-10 16:48:57,309 INFO c.o.Test1 [main] Автоматизация тестирования на Kotlin description
+2021-12-10 16:48:57,331 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:48:58,059 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:49:20,283 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:49:25,385 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:49:25,389 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:49:26,741 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:49:29,249 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:49:31,326 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:50:30,361 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:50:34,625 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:50:34,630 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:50:36,043 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:50:38,713 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:50:39,053 INFO c.o.Test1 [main] Game QA Engineer headle
+2021-12-10 16:50:40,826 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:51:26,211 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:51:30,101 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:51:30,106 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:51:31,527 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:51:34,545 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:51:34,894 INFO c.o.Test1 [main] Game QA Engineer headle
+2021-12-10 16:51:34,920 INFO c.o.Test1 [main] Стань тестировщиком любых игр: мобильные, консольные, браузерные и ПК.
+Узнай все зависимости процесса  тестирования от жанра игр до игровых движков. description
+2021-12-10 16:51:34,941 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:51:35,678 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:51:55,233 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:52:00,495 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:52:00,503 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:52:01,908 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:52:03,703 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:52:03,808 INFO c.o.Test1 [main] Ручное тестирование headle
+2021-12-10 16:52:03,832 INFO c.o.Test1 [main] Курс по ручному тестированию;
+
+Подходит для интересующиеся направлением Тестирования ПО, а также для специалистов, занимающихся тестированием, желающим подтянуть теоретическую часть.
+
+Занятия в формате видео.
+
+Слушатели курса получат представление о профессии Тестировщик ПО и знания, достаточные для прохождения собеседования на позицию Trainee/Junior QA description
+2021-12-10 16:52:03,832 INFO c.o.Test1 [main] not time in page
+2021-12-10 16:52:04,563 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:52:32,421 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:52:37,383 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:52:37,387 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:52:38,770 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:52:46,689 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:53:28,278 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:53:32,158 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:53:32,164 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:53:33,549 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:53:38,072 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:53:38,404 INFO c.o.Test1 [main] QA Lead headle
+2021-12-10 16:53:38,455 INFO c.o.Test1 [main] Best Practice по Soft и Hard Skills для эффективного управления командами тестирования description
+2021-12-10 16:53:38,479 INFO c.o.Test1 [main] 6 месяцев duration
+2021-12-10 16:53:39,236 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:53:50,063 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:53:54,061 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:53:54,066 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:53:55,531 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:53:58,460 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:53:58,882 INFO c.o.Test1 [main] QA Engineer. Basic headle
+2021-12-10 16:53:58,924 INFO c.o.Test1 [main] Получите навыки тестирования веб-приложений и представления обратной связи о качестве продукта description
+2021-12-10 16:53:58,950 INFO c.o.Test1 [main] 4 месяца duration
+2021-12-10 16:53:59,692 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:54:13,177 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:54:18,255 INFO c.o.Test1 [main] Input on page Testing
+2021-12-10 16:54:18,259 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-10 16:54:19,673 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:54:23,602 INFO c.o.Test1 [main] Find picture Course
+2021-12-10 16:54:24,040 INFO c.o.Test1 [main] QA Lead headle
+2021-12-10 16:54:24,074 INFO c.o.Test1 [main] Best Practice по Soft и Hard Skills для эффективного управления командами тестирования description
+2021-12-10 16:54:24,118 INFO c.o.Test1 [main] 6 месяцев duration
+2021-12-10 16:54:24,882 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:54:38,297 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:54:42,196 INFO c.o.Test1 [main] Input on page Calendar of Events
+2021-12-10 16:54:43,801 INFO c.o.Test1 [main] DOD
+2021-12-10 16:54:43,804 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:54:45,319 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:54:45,344 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:54:46,507 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:54:46,944 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:54:46,986 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:54:47,035 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:54:47,076 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:54:47,119 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:54:47,168 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:54:47,168 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:54:48,302 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:54:48,491 INFO c.o.Test1 [main] Comparison DOD in page
+2021-12-10 16:54:49,262 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:55:03,584 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:55:07,667 INFO c.o.Test1 [main] Input on page Calendar of Events
+2021-12-10 16:55:07,671 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:09,193 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:09,218 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:10,952 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:10,963 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:12,748 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:12,758 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:14,547 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:14,555 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:16,136 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:17,775 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:17,819 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:17,859 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:17,903 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:17,942 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:17,982 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,024 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,065 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,116 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,159 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,200 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,240 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,282 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,324 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,361 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,401 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,442 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,484 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,532 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,576 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,618 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,660 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,703 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,746 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,811 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,853 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,897 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,944 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:18,986 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,025 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,067 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,110 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,154 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,193 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,234 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,277 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:19,325 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:20,123 INFO c.o.Test1 [main] Driver off
+2021-12-10 16:55:32,324 INFO c.o.Test1 [main] Driver on
+2021-12-10 16:55:36,046 INFO c.o.Test1 [main] Input on page Calendar of Events
+2021-12-10 16:55:36,051 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:37,621 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:37,644 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:39,417 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:39,424 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:41,226 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:41,233 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:42,981 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:42,986 INFO c.o.Test1 [main] 2 switch BasePage
+2021-12-10 16:55:44,545 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-10 16:55:46,189 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,230 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,271 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,313 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,362 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,400 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,438 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,478 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,522 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,575 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,624 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,666 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,703 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,753 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,794 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,840 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,886 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:46,960 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,006 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,045 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,085 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,126 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,174 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,214 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,257 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,299 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,342 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,384 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,423 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,463 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,503 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,553 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,596 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,635 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,673 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,714 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:47,759 INFO c.o.Test1 [main] This month is new year, but on page year not specified
+2021-12-10 16:55:48,589 INFO c.o.Test1 [main] Driver off

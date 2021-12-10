@@ -30,10 +30,10 @@ public class Test2 extends BaseTest{
          * Chose random picture and click on.
          */
         TestingPage testingPage = new TestingPage(driver);
+
         int countPicture = testingPage.countPicture(1,1);
         int randomPageNow = testingPage.generateRandom(countPicture);
         testingPage.clickRandomPicture(randomPageNow);
-
         /**
          * Receive on random page parameter: heading, description, duration.
          */
