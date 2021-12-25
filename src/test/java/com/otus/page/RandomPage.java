@@ -44,6 +44,7 @@ public class RandomPage extends BasePage{
     String durationLocalorCourse6 = "body.t-body>div:nth-child(1)>div:nth-child(4)>div:nth-child(2)>" +
             "div:nth-child(1)>div:nth-child(9)>div:nth-child(1)";
 
+
     /**
      * This method wait loader page and find heading and result his text.
      * @param randomPageNow

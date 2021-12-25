@@ -32,7 +32,8 @@ public class Test2 extends BaseTest{
         TestingPage testingPage = new TestingPage(driver);
 
         int countPicture = testingPage.countPicture(1,1);
-        int randomPageNow = testingPage.generateRandom(countPicture);
+        //int randomPageNow = testingPage.generateRandom(countPicture);
+        int randomPageNow = 11;
         testingPage.clickRandomPicture(randomPageNow);
         /**
          * Receive on random page parameter: heading, description, duration.

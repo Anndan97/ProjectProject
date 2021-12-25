@@ -2172,3 +2172,30 @@
 2021-12-10 16:55:47,714 INFO c.o.Test1 [main] This month is new year, but on page year not specified
 2021-12-10 16:55:47,759 INFO c.o.Test1 [main] This month is new year, but on page year not specified
 2021-12-10 16:55:48,589 INFO c.o.Test1 [main] Driver off
+2021-12-25 14:58:57,740 INFO c.o.Test1 [main] Driver on
+2021-12-25 14:59:03,711 INFO c.o.Test1 [main] Input on page Testing
+2021-12-25 14:59:03,718 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-25 14:59:05,176 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-25 14:59:07,985 INFO c.o.Test1 [main] Find picture Course
+2021-12-25 14:59:10,254 INFO c.o.Test1 [main] Driver off
+2021-12-25 15:09:17,920 INFO c.o.Test1 [main] Driver on
+2021-12-25 15:09:22,615 INFO c.o.Test1 [main] Input on page Testing
+2021-12-25 15:09:22,619 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-25 15:09:23,872 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-25 15:09:26,916 INFO c.o.Test1 [main] Find picture Course
+2021-12-25 15:09:30,407 INFO c.o.Test1 [main] Driver off
+2021-12-25 15:11:51,682 INFO c.o.Test1 [main] Driver on
+2021-12-25 15:11:56,777 INFO c.o.Test1 [main] Input on page Testing
+2021-12-25 15:11:56,791 INFO c.o.Test1 [main] 1 switch BasePage
+2021-12-25 15:11:58,824 INFO c.o.Test1 [main] EXIT TO EXCEPTION
+2021-12-25 15:12:00,538 INFO c.o.Test1 [main] Find picture Course
+2021-12-25 15:12:00,682 INFO c.o.Test1 [main] Ручное тестирование headle
+2021-12-25 15:12:00,708 INFO c.o.Test1 [main] Курс по ручному тестированию;
+
+Подходит для интересующиеся направлением Тестирования ПО, а также для специалистов, занимающихся тестированием, желающим подтянуть теоретическую часть.
+
+Занятия в формате видео.
+
+Слушатели курса получат представление о профессии Тестировщик ПО и знания, достаточные для прохождения собеседования на позицию Trainee/Junior QA description
+2021-12-25 15:12:00,708 INFO c.o.Test1 [main] not time in page
+2021-12-25 15:12:01,584 INFO c.o.Test1 [main] Driver off
